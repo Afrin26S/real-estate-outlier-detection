@@ -1,0 +1,276 @@
+property_id,zone,area_sqft,bedrooms,bathrooms,age_years,price
+P1000,Downtown Core,1049.3,2,1,15,9516000
+P1001,Downtown Core,922.3,3,2,13,8608000
+P1002,Downtown Core,1079.5,2,1,11,9181000
+P1003,Downtown Core,1254.6,3,3,22,10568000
+P1004,Downtown Core,903.2,3,3,14,9241000
+P1005,Downtown Core,903.2,3,3,27,21467000
+P1006,Downtown Core,1265.8,1,1,33,27364000
+P1007,Downtown Core,1103.5,4,4,1,11480000
+P1008,Downtown Core,856.1,2,1,31,8412000
+P1009,Downtown Core,1058.5,2,2,22,9441000
+P1010,Downtown Core,857.3,1,1,21,8423000
+P1011,Downtown Core,856.9,3,2,24,9326000
+P1012,Downtown Core,998.4,3,2,21,9453000
+P1013,Downtown Core,567.3,1,1,21,6189000
+P1014,Downtown Core,605.0,3,3,5,4321000
+P1015,Downtown Core,837.5,2,2,14,8576000
+P1016,Downtown Core,747.4,3,3,36,7159000
+P1017,Downtown Core,1012.8,2,1,32,9350000
+P1018,Downtown Core,768.4,3,3,7,7363000
+P1019,Downtown Core,667.5,2,2,4,5148000
+P1020,Downtown Core,1243.1,5,4,38,11564000
+P1021,Downtown Core,904.8,2,2,3,8887000
+P1022,Downtown Core,963.5,2,1,5,10435000
+P1023,Downtown Core,665.1,2,1,31,6008000
+P1024,Downtown Core,841.1,4,3,29,7379000
+P1025,Downtown Core,972.2,4,4,34,8797000
+P1026,Downtown Core,719.8,2,2,39,7431000
+P1027,Downtown Core,1025.1,3,2,15,10042000
+P1028,Downtown Core,829.9,4,4,12,7488000
+P1029,Downtown Core,891.7,3,2,29,8883000
+P1030,Downtown Core,829.7,3,2,18,7954000
+P1031,Downtown Core,1320.5,2,1,16,13695000
+P1032,Downtown Core,947.3,1,1,18,8401000
+P1033,Downtown Core,738.5,4,4,27,6798000
+P1034,Downtown Core,1114.5,4,3,25,10195000
+P1035,Downtown Core,705.8,3,3,36,5776000
+P1036,Downtown Core,991.8,2,2,25,9686000
+P1037,Downtown Core,558.1,2,2,22,5433000
+P1038,Downtown Core,684.4,3,2,8,6505000
+P1039,Downtown Core,989.4,4,3,11,9190000
+P1040,Downtown Core,1097.7,4,4,0,9030000
+P1041,Downtown Core,984.3,4,4,0,8978000
+P1042,Downtown Core,926.9,3,2,33,8519000
+P1043,Downtown Core,889.8,1,1,31,7810000
+P1044,Downtown Core,654.3,2,2,24,6121000
+P1045,Downtown Core,806.0,4,4,39,7950000
+P1046,Downtown Core,857.9,3,2,0,9606000
+P1047,Downtown Core,1161.4,1,1,15,11216000
+P1048,Downtown Core,1018.7,2,1,38,9914000
+P1049,Downtown Core,597.4,3,2,4,5635000
+P1050,Downtown Core,1014.8,1,1,21,7888000
+P1051,Downtown Core,873.0,2,2,28,8273000
+P1052,Downtown Core,814.6,3,2,2,7783000
+P1053,Downtown Core,1072.3,3,2,11,12564000
+P1054,Downtown Core,1156.2,3,2,25,10784000
+P1055,Downtown Core,1136.3,2,1,15,11103000
+P1056,Downtown Core,782.2,3,3,36,7406000
+P1057,Downtown Core,888.2,2,2,21,20835000
+P1058,Downtown Core,1016.3,2,1,28,10700000
+P1059,Downtown Core,1145.1,3,2,13,11653000
+P1060,Suburban Residential,1053.3,5,4,19,5770000
+P1061,Suburban Residential,1871.0,1,1,11,10415000
+P1062,Suburban Residential,1062.5,4,3,0,4938000
+P1063,Suburban Residential,1784.6,3,3,25,9959000
+P1064,Suburban Residential,1391.5,3,2,13,6854000
+P1065,Suburban Residential,885.1,3,3,37,3514000
+P1066,Suburban Residential,1087.1,4,4,36,5684000
+P1067,Suburban Residential,1797.9,3,3,10,8590000
+P1068,Suburban Residential,1534.6,4,3,35,3849000
+P1069,Suburban Residential,1376.4,4,3,12,6960000
+P1070,Suburban Residential,735.0,3,2,2,3839000
+P1071,Suburban Residential,1816.9,5,5,32,9801000
+P1072,Suburban Residential,1961.1,3,2,5,9936000
+P1073,Suburban Residential,1906.4,3,3,9,9814000
+P1074,Suburban Residential,1215.4,3,3,4,6833000
+P1075,Suburban Residential,1514.8,1,1,22,7070000
+P1076,Suburban Residential,1547.6,3,2,9,7505000
+P1077,Suburban Residential,941.8,3,3,1,4442000
+P1078,Suburban Residential,1454.1,3,3,12,8606000
+P1079,Suburban Residential,1721.3,4,3,39,8347000
+P1080,Suburban Residential,1629.3,2,2,1,8356000
+P1081,Suburban Residential,1066.7,3,3,19,5226000
+P1082,Suburban Residential,1141.2,3,3,0,5758000
+P1083,Suburban Residential,1637.2,4,4,36,7910000
+P1084,Suburban Residential,1589.9,3,3,8,8635000
+P1085,Suburban Residential,723.8,4,4,16,3387000
+P1086,Suburban Residential,663.0,4,3,8,2999000
+P1087,Suburban Residential,1377.0,1,1,10,6776000
+P1088,Suburban Residential,1223.1,1,1,14,5872000
+P1089,Suburban Residential,1310.5,3,2,23,5938000
+P1090,Suburban Residential,1276.6,2,2,37,6432000
+P1091,Suburban Residential,1695.2,2,2,34,7408000
+P1092,Suburban Residential,1431.1,3,3,29,8678000
+P1093,Suburban Residential,1480.3,2,2,30,6593000
+P1094,Suburban Residential,997.3,3,3,4,4864000
+P1095,Suburban Residential,390.8,3,2,13,1953000
+P1096,Suburban Residential,1737.1,3,2,10,10496000
+P1097,Suburban Residential,2043.0,3,3,8,8856000
+P1098,Suburban Residential,1297.2,3,3,33,6838000
+P1099,Suburban Residential,1474.8,2,2,11,8434000
+P1100,Suburban Residential,1497.4,3,2,34,7554000
+P1101,Suburban Residential,1902.6,3,3,34,8781000
+P1102,Suburban Residential,1666.7,4,4,0,8577000
+P1103,Suburban Residential,1548.8,3,3,39,9236000
+P1104,Suburban Residential,1416.7,5,5,21,6931000
+P1105,Suburban Residential,1418.1,3,2,28,8392000
+P1106,Suburban Residential,968.2,2,2,7,5160000
+P1107,Suburban Residential,1285.0,4,3,10,7474000
+P1108,Suburban Residential,1665.9,2,2,36,8845000
+P1109,Suburban Residential,1329.9,2,1,13,2661000
+P1110,Suburban Residential,1413.3,1,1,29,8507000
+P1111,Suburban Residential,1047.2,3,3,34,5563000
+P1112,Suburban Residential,1533.7,3,2,20,8103000
+P1113,Suburban Residential,961.5,2,1,36,5388000
+P1114,Suburban Residential,1487.0,4,3,4,8419000
+P1115,Suburban Residential,1343.8,2,2,18,3420000
+P1116,Suburban Residential,877.0,2,1,13,3968000
+P1117,Suburban Residential,1720.8,2,2,25,8400000
+P1118,Suburban Residential,1350.8,1,1,3,6581000
+P1119,Suburban Residential,1958.2,3,3,24,9420000
+P1120,Suburban Residential,1843.5,3,2,24,8782000
+P1121,Suburban Residential,1136.2,3,2,17,5527000
+P1122,Suburban Residential,1162.5,2,1,39,6240000
+P1123,Suburban Residential,1048.4,2,2,7,5711000
+P1124,Suburban Residential,924.1,1,1,38,4804000
+P1125,Suburban Residential,1273.3,4,3,39,6350000
+P1126,Suburban Residential,1833.1,1,1,13,10701000
+P1127,Suburban Residential,825.5,3,2,31,4255000
+P1128,Suburban Residential,1655.6,5,4,37,9385000
+P1129,Suburban Residential,1630.5,3,3,32,8014000
+P1130,Waterfront,1903.7,5,5,23,59496000
+P1131,Waterfront,1272.2,3,2,21,16593000
+P1132,Waterfront,1293.6,4,4,4,14441000
+P1133,Waterfront,1671.6,5,5,32,18051000
+P1134,Waterfront,1389.1,5,4,35,15060000
+P1135,Waterfront,2055.6,2,1,19,20612000
+P1136,Waterfront,1380.4,3,2,18,18338000
+P1137,Waterfront,1426.6,2,1,34,16317000
+P1138,Waterfront,1746.6,1,1,16,19749000
+P1139,Waterfront,1463.7,3,2,33,13852000
+P1140,Waterfront,1167.8,3,3,8,11938000
+P1141,Waterfront,1215.2,4,4,25,16299000
+P1142,Waterfront,1788.2,2,2,1,21697000
+P1143,Waterfront,1124.5,4,4,8,14711000
+P1144,Waterfront,2089.0,3,2,8,27040000
+P1145,Waterfront,1358.4,3,3,39,14534000
+P1146,Waterfront,1815.7,4,4,16,26278000
+P1147,Waterfront,1379.4,3,3,0,19235000
+P1148,Waterfront,1279.7,2,2,24,14306000
+P1149,Waterfront,1686.1,4,3,39,13278000
+P1150,Waterfront,1968.1,2,2,24,22452000
+P1151,Waterfront,1513.4,1,1,38,18255000
+P1152,Waterfront,1577.1,4,4,34,17625000
+P1153,Waterfront,1882.6,2,2,2,21756000
+P1154,Waterfront,1894.2,4,3,36,20625000
+P1155,Waterfront,1586.5,2,2,29,20329000
+P1156,Waterfront,1444.8,4,3,37,17150000
+P1157,Waterfront,1628.9,2,2,33,20926000
+P1158,Waterfront,1533.2,5,5,11,20153000
+P1159,Waterfront,1709.5,4,3,18,16084000
+P1160,Waterfront,1182.0,2,2,36,12946000
+P1161,Waterfront,1697.0,3,3,16,18860000
+P1162,Waterfront,1348.6,5,4,9,19728000
+P1163,Waterfront,1917.1,3,3,11,22936000
+P1164,Waterfront,1364.6,2,1,15,17322000
+P1165,Waterfront,1370.7,3,3,23,13339000
+P1166,Waterfront,1755.9,3,2,18,20996000
+P1167,Waterfront,1605.0,3,2,7,20666000
+P1168,Waterfront,2396.8,3,2,30,11857000
+P1169,Waterfront,1029.7,3,2,20,12857000
+P1170,Industrial Fringe,1354.7,2,2,30,4245000
+P1171,Industrial Fringe,1087.5,2,2,37,2800000
+P1172,Industrial Fringe,467.7,1,1,31,1553000
+P1173,Industrial Fringe,1424.5,2,1,10,5640000
+P1174,Industrial Fringe,1461.0,3,3,24,4585000
+P1175,Industrial Fringe,623.9,2,1,32,1561000
+P1176,Industrial Fringe,1143.9,2,1,37,3614000
+P1177,Industrial Fringe,1447.1,1,1,7,4485000
+P1178,Industrial Fringe,1407.5,4,3,10,4320000
+P1179,Industrial Fringe,1309.0,2,1,21,4491000
+P1180,Industrial Fringe,438.2,2,2,23,1570000
+P1181,Industrial Fringe,1282.4,1,1,16,4282000
+P1182,Industrial Fringe,1045.5,3,3,11,3192000
+P1183,Industrial Fringe,1349.0,4,3,31,4713000
+P1184,Industrial Fringe,1164.0,2,1,14,3000000
+P1185,Industrial Fringe,1095.0,2,2,15,3120000
+P1186,Industrial Fringe,1260.2,4,3,21,3640000
+P1187,Industrial Fringe,1057.0,4,3,27,3265000
+P1188,Industrial Fringe,1093.9,2,2,19,3585000
+P1189,Industrial Fringe,961.2,4,4,32,2912000
+P1190,Industrial Fringe,698.6,5,5,9,6024000
+P1191,Industrial Fringe,1242.0,2,2,39,4274000
+P1192,Industrial Fringe,898.5,4,4,31,2711000
+P1193,Industrial Fringe,1049.8,3,3,32,3292000
+P1194,Industrial Fringe,1171.7,3,3,1,3858000
+P1195,Industrial Fringe,578.7,1,1,32,1802000
+P1196,Industrial Fringe,634.7,1,1,32,1977000
+P1197,Industrial Fringe,1025.1,4,4,12,3547000
+P1198,Industrial Fringe,1213.6,5,4,29,3827000
+P1199,Industrial Fringe,1286.0,3,3,32,4375000
+P1200,Industrial Fringe,702.2,3,2,12,2311000
+P1201,Industrial Fringe,1259.2,3,2,25,4792000
+P1202,Industrial Fringe,1038.7,3,3,21,3369000
+P1203,Industrial Fringe,879.2,2,2,38,2922000
+P1204,Industrial Fringe,937.9,1,1,1,3269000
+P1205,Industrial Fringe,1300.5,4,4,37,4060000
+P1206,Industrial Fringe,1168.5,2,1,38,3361000
+P1207,Industrial Fringe,1112.6,4,4,25,3264000
+P1208,Industrial Fringe,1160.9,2,2,14,3410000
+P1209,Industrial Fringe,1332.0,1,1,33,3686000
+P1210,Industrial Fringe,1075.7,2,2,39,3454000
+P1211,Industrial Fringe,1113.6,3,2,10,3207000
+P1212,Industrial Fringe,1384.5,5,5,2,4387000
+P1213,Industrial Fringe,1017.1,2,2,5,3097000
+P1214,Industrial Fringe,1254.5,4,4,8,3871000
+P1215,Industrial Fringe,974.1,3,2,5,3209000
+P1216,Industrial Fringe,996.0,4,4,8,2899000
+P1217,Industrial Fringe,1074.0,2,2,38,3570000
+P1218,Industrial Fringe,1228.8,4,3,30,4483000
+P1219,Industrial Fringe,1398.5,4,4,31,12473000
+P1220,Rural Outskirts,2353.8,4,3,10,2969000
+P1221,Rural Outskirts,2103.0,2,2,38,4157000
+P1222,Rural Outskirts,1811.4,2,2,23,3700000
+P1223,Rural Outskirts,2432.1,3,2,18,5043000
+P1224,Rural Outskirts,2180.9,2,1,3,3838000
+P1225,Rural Outskirts,2978.5,3,3,25,6541000
+P1226,Rural Outskirts,1636.2,3,3,37,3889000
+P1227,Rural Outskirts,1830.6,3,2,31,3148000
+P1228,Rural Outskirts,2427.5,2,2,38,4096000
+P1229,Rural Outskirts,1182.6,3,2,35,2173000
+P1230,Rural Outskirts,2326.8,3,3,39,3910000
+P1231,Rural Outskirts,1975.7,3,3,36,3248000
+P1232,Rural Outskirts,1444.7,3,2,32,2407000
+P1233,Rural Outskirts,1254.8,1,1,35,2797000
+P1234,Rural Outskirts,1531.0,3,3,2,1340000
+P1235,Rural Outskirts,886.1,2,2,8,1488000
+P1236,Rural Outskirts,1604.2,3,3,7,1903000
+P1237,Rural Outskirts,2049.0,4,3,32,2897000
+P1238,Rural Outskirts,1609.5,3,3,5,3100000
+P1239,Rural Outskirts,2355.3,3,3,38,2990000
+P1240,Rural Outskirts,2464.0,5,4,3,4616000
+P1241,Rural Outskirts,2310.3,4,3,12,3543000
+P1242,Rural Outskirts,1892.3,4,4,1,3449000
+P1243,Rural Outskirts,870.1,4,4,4,1580000
+P1244,Rural Outskirts,1518.5,2,1,26,2779000
+P1245,Rural Outskirts,1743.2,2,1,31,2966000
+P1246,Rural Outskirts,1442.5,3,3,20,2442000
+P1247,Rural Outskirts,1744.2,2,2,7,2825000
+P1248,Rural Outskirts,2444.0,3,3,37,4695000
+P1249,Rural Outskirts,1141.7,2,1,7,2285000
+P1250,Rural Outskirts,2524.7,3,2,2,3775000
+P1251,Rural Outskirts,2153.9,3,2,2,3849000
+P1252,Rural Outskirts,1907.3,3,2,21,3527000
+P1253,Rural Outskirts,1514.6,3,2,5,2796000
+P1254,Rural Outskirts,1450.4,4,4,1,2671000
+P1255,Rural Outskirts,1149.5,3,3,22,1954000
+P1256,Rural Outskirts,2486.7,4,4,1,4650000
+P1257,Rural Outskirts,2415.0,1,1,37,4720000
+P1258,Rural Outskirts,1237.5,5,4,16,2271000
+P1259,Rural Outskirts,1578.9,3,3,34,3042000
+P1260,Rural Outskirts,1973.3,2,2,33,4040000
+P1261,Rural Outskirts,1680.2,2,2,22,7600000
+P1262,Rural Outskirts,1032.5,3,3,29,2102000
+P1263,Rural Outskirts,1536.9,2,2,7,2898000
+P1264,Rural Outskirts,2580.4,2,2,21,3928000
+P1265,Rural Outskirts,1564.0,3,2,35,3129000
+P1266,Rural Outskirts,1734.6,3,3,4,2950000
+P1267,Rural Outskirts,1341.9,3,2,12,2328000
+P1268,Rural Outskirts,2035.1,4,4,28,3405000
+P1269,Rural Outskirts,1846.1,3,3,30,3462000
+P1270,Rural Outskirts,1503.2,3,3,15,2411000
+P1271,Rural Outskirts,1278.1,1,1,29,2589000
+P1272,Rural Outskirts,2361.8,3,2,15,4169000
+P1273,Rural Outskirts,1157.8,2,2,11,1979000
+P1274,Rural Outskirts,2001.5,5,5,16,3979000
